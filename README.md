@@ -10,7 +10,7 @@ No, I wouldn’t use an end-to-end test just to check if a function gives the ri
 
 1. What is the difference between navigation and snapshot mode?
    
-Navigation mode checks how fast and smooth the website loads from the very beginning. It looks at things like load speed and how much stuff the browser has to do when the page opens which is great It’s for testing performance after the page loads. Whereas, snapshot mode just takes a screenshot of the page in its current state. It’s useful for checking things like accessibility and SEO, but it doesn’t show how fast the site loads or how it behaves when users interact with it.
+Navigation mode checks how fast and smooth the website loads from the very beginning. It looks at things like load speed and how much stuff the browser has to do when the page opens which is for testing performance after the page loads. Whereas, snapshot mode just takes a screenshot of the page in its current state. It’s useful for checking things like accessibility and SEO, but it doesn’t show how fast the site loads or how it behaves when users interact with it.
 
 1. Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.
 

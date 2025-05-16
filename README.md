@@ -6,7 +6,7 @@ This means the tests will run automatically every time I add new code, which hel
 
 1. Would you use an end to end test to check if a function is returning the correct output? (yes/no)
 
-No, I wouldn’t use an end-to-end test just to check if a function gives the right output, but rather a unit test. End-to-end tests are for checking how the whole website or app works from the user's point of view. 
+No, I wouldn’t use an end-to-end test, but I would rather use a unit test. End-to-end tests are for checking how the whole website or app works from the user's point of view. 
 
 1. What is the difference between navigation and snapshot mode?
    
